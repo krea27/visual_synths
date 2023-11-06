@@ -20,8 +20,8 @@ _Yanina Longo Krea_, 2023.
 
 
 **RUIDO AFUERA**
-_"Las transformaciones tecnológicas ofrecen nuevos obstáculos y nuevas oportunidades de expresión.
-No solo el cuerpo ha cambiado también ha cambiado nuestro sentido del espacio lo digital se ha convertido en una extensión del cuerpo humano vivimos simultáneamente en un mundo real y un mundo virtual todos tenemos cuerpos electrónicos hoy en día hace falta distinguir entre el cuerpo orgánico y el cuerpo electrónico el espacio real y el virtual esta vida y la segunda vida el universo y el metaverso digital"__- TAYLOR, Diana. (2012). “Los nuevos usos de performance”_
+
+_"Como dice  TAYLOR, Diana "No solo el cuerpo ha cambiado también ha cambiado nuestro sentido del espacio, lo digital se ha convertido en una extensión del cuerpo humano, vivimos simultáneamente en un mundo real y un mundo virtual todos tenemos cuerpos electrónicos. Hoy en día hace falta distinguir entre el cuerpo orgánico y el cuerpo electrónico el espacio real y el virtual esta vida y la segunda vida el universo y el metaverso digital"__- TAYLOR, Diana. (2012). “Los nuevos usos de performance”_
 
 A raiz del encierro producido a causa de la pandemia lo digital comenzó a tener más protagonismo en mi vida social, cultural y sensorial.
 Cambios abruptos como pasar de de danzas multitudinarias al aire libre,  a tener una clase virtual en un pequeño cuarto, pasar también de contactarme  con  gente en la calle a tener citas virtuales.
