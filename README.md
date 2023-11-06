@@ -1,7 +1,11 @@
 layout: post
+
 title: "synth-uno"
+
 date: 2023-10-25
+
 thumbnail: thumbnail.png
+
 dependencies:
   - p5
   - p5.sound
@@ -11,14 +15,17 @@ dependencies:
   <script type="text/javascript" src="sketch.js"></script>
 </div>
 
+
 _Yanina Longo Krea_, 2023.
+
 
 **RUIDO AFUERA**
 _"Las transformaciones tecnológicas ofrecen nuevos obstáculos y nuevas oportunidades de expresión.
 No solo el cuerpo ha cambiado también ha cambiado nuestro sentido del espacio lo digital se ha convertido en una extensión del cuerpo humano vivimos simultáneamente en un mundo real y un mundo virtual todos tenemos cuerpos electrónicos hoy en día hace falta distinguir entre el cuerpo orgánico y el cuerpo electrónico el espacio real y el virtual esta vida y la segunda vida el universo y el metaverso digital"__- TAYLOR, Diana. (2012). “Los nuevos usos de performance”_
 
-A causa del encierro producido a causa de la pandemia lo digital comenzó a tener más protagonismo en mi vida social,cultural y sensorial.
-Cambios abruptos como pasar de de danzas multitudinarias al aire libre  a una clase virtual en un pequeño cuarto, pasar también de contactarme con  gente en la calle a tener citas virtuales.Las horas frente a mi celular y la computadora parecían necesarias para el contacto de algún modo con otros seres humanos, corporalmente y mentalmente me sentía atormentada y con la necesidad de estallar. Muchas veces a raíz de ello comencé a generar sonidos y ruidos que me  hacían vibrar célula por célula en mi imaginario gritando con dichos ruidos todo aquello que no podía explicar con palabras, de algún modo cuando descubrí esta carrera me sentí varias veces en una realidad digital mucho más afianzada ya, tanto que se pasaba en las horas como minutos y gran parte de mi rutina se redujo a estar frente a una pantalla hoy parte de mí cree estar en el metaverso esta vez escribí una canción que representa todo lo enunciado anteriormente te propongo  en esta obra que elijas tu ´ropio sonido sonido e inventes tu propia version. Muévete a través del lienzo hacia donde quieras y sé consciente de que puedes elegir dónde permanecer.
+A raiz del encierro producido a causa de la pandemia lo digital comenzó a tener más protagonismo en mi vida social, cultural y sensorial.
+Cambios abruptos como pasar de de danzas multitudinarias al aire libre,  a tener una clase virtual en un pequeño cuarto, pasar también de contactarme  con  gente en la calle a tener citas virtuales.
+Las horas frente a mi celular y la computadora parecían necesarias para el contacto de algún modo con otros seres humanos, corporalmente y mentalmente me sentía atormentada y con la necesidad de estallar. Muchas veces a raíz de ello comencé a generar sonidos y ruidos que me  hacían vibrar célula por célula en mi imaginario gritando con dichos ruidos todo aquello que no podía explicar con palabras, de algún modo cuando descubrí esta carrera me sentí varias veces en una realidad digital mucho más afianzada ya, tanto que se pasaba en las horas como minutos y gran parte de mi rutina se redujo a estar frente a una pantalla hoy parte de mí cree estar en el metaverso esta vez escribí una canción que representa todo lo enunciado anteriormente te propongo  en esta obra que elijas tu propio  sonido e inventes tu propia version. Muévete a través del lienzo hacia donde quieras y sé consciente de que puedes elegir dónde permanecer.
 
 **Mensaje al metaverso**
 Voy a lanzar un mensaje al metaverso, desde mi universo. 
